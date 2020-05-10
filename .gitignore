@@ -147,3 +147,4 @@ nohup.out
 
 # Data
 *.data
+*.out
