@@ -148,3 +148,6 @@ nohup.out
 # Data
 *.data
 *.out
+
+# example picture
+!example.png
