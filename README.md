@@ -9,7 +9,7 @@ The concrete example used here is about the spreading of dry fertilizer and the 
 
 ### Method
 ![](example.png)
-The Particle plume was observed with 2 aerosol monitors, which measured the particle number concentration in 31 size bins from 0.25 \mu m  - 32 \mum in two different heights.
+The Particle plume was observed with 2 aerosol monitors, which measured the particle number concentration in 31 size bins from 0.25 &mu;m  - 32 &mu;m in two different heights.
 From this, a vertical profile of particle concentration is assumed (c.f. Fig).
 
 I define the profile as the center of the plume and multiply it with an ellipsoid to get a bubble-shaped concentration field.
