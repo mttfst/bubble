@@ -32,7 +32,7 @@ The code is written in python3 as Jupyter Notebook. A copy of the code as python
 Following packages are used:
 - numpy
 - matplotlib
-- mpl_toolkits
+- basemap
 
 
 
