@@ -20,7 +20,8 @@ A detailed description of the algorithm can be found in the file  [dust-bubble.i
 
 ### Application
 
-The particle positions are used as start points for the Lagrangian particle dispersion model ["Itpas"](https://zenodo.org/record/3932248).
+The particle positions are used as start points for the Lagrangian particle dispersion model ["Itpas"](https://zenodo.org/record/3932248) ([![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3932248.svg)](https://doi.org/10.5281/zenodo.3932248)
+).
 
 This software is part of the Itpas pre-processing.
 The particle start points can be written into the start file format of Itpas.  
