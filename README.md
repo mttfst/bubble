@@ -37,4 +37,8 @@ Following packages are used:
 
 
 ### Citation
-Please cite this software as suggested by Zenodo on the right.
+Please cite this software as:
+
+Matthias Faust. (2020, August 7). mttfst/dust-bubble: v1.0 particle start file (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.3975564](http://doi.org/10.5281/zenodo.3975564)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3975563.svg)](https://doi.org/10.5281/zenodo.3975563)
