@@ -20,25 +20,21 @@ A detailed description of the algorithm can be found in the file  [dust-bubble.i
 
 ### Application
 
-The particle positions are used as start points for the Lagrangian particle dispersion model ["Itpas"](https://zenodo.org/record/3932248).
+The particle positions are used as start points for the Lagrangian particle dispersion model *[Itpas](https://zenodo.org/record/3932248)*.
 
-This software is part of the Itpas pre-processing.
-The particle start points can be written into the start file format of Itpas.  
-Details on the particle model and its application can be found (later) at Faust et al. (in Prep.)
+This software is part of the *Itpas* pre-processing.
+The particle start points can be written into the start file format of *Itpas*.  
+<!-- Details on the particle model and its application can be found (later) at Faust et al. (in Prep.) -->
 
 ### Requirements
-The code is written in python3 as Jupyter Notebook. A copy of the code as python script ([dust-bubble.py](dust-bubble.py)) is included but will be updated only for the release-versions.
+The code is written in python3 as Jupyter Notebook([dust-bubble.ipynb](dust-bubble.ipynb)). A copy of the code as python script ([dust-bubble.py](dust-bubble.py)) is included but will be updated only for the release-versions.
 
 Following packages are used:
 - numpy
 - matplotlib
-- basemap
+- mpl_toolkits
 
 
 
 ### Citation
-Please cite this software as:
-
----
-#### Acknowledgments
-I use [nbstripout](https://github.com/kynan/nbstripout) and [nbdime](https://nbdime.readthedocs.io/) for this Repository.
+Please cite this software as suggested by Zenodo on the right.
